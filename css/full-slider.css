@@ -13,3 +13,16 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  bottom: 50vh;
+  left: 15%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  text-align: center;
+}
